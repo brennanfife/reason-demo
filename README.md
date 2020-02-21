@@ -1,2 +1,5 @@
 # Reason Gatsby-Repos Demo
-npm run
+## Run
+- npm install
+- npm run start
+- npm run server
